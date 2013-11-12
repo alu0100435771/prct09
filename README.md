@@ -1,29 +1,34 @@
 # Prct09
 
-TODO: Write a gem description
+Aplicación que contempla la creación de matrices dispersas y densas.
 
-## Installation
+## Instalacion
 
-Add this line to your application's Gemfile:
+Añade esta linea al Gemfile de tu aplicacion:
 
     gem 'prct09'
 
-And then execute:
+Luego ejecuta:
 
     $ bundle
 
-Or install it yourself as:
+O instalalo por tu cuenta:
 
     $ gem install prct09
 
-## Usage
+## Uso
+Para usar esta libreria en tu aplicacion de Ruby, debes incluir el fichero:
+    
+    require 'prct09'
 
-TODO: Write usage instructions here
+Para colaborar en el codigo ha de instalarse las dependencias de la libreria:
 
-## Contributing
+    $ bundle
 
-1. Fork it
-2. Create your feature branch (`git checkout -b my-new-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin my-new-feature`)
-5. Create new Pull Request
+## Contribucion
+
+1. Hacer un Fork
+2. Crear tu rama con sus caracteristicas (`git checkout -b my-new-feature`)
+3. Haz un "commit" con tus cambios (`git commit -am 'Add some feature'`)
+4. Haz un "push" de los cambios (`git push origin my-new-feature`)
+5. Crea un "Pull Request"
